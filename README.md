@@ -1,2 +1,2 @@
 # MightyCoin
-Creating my own cryptocurrency from scratch
+Creating my not a billion dollar cryptocurrency from scratch
